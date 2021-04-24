@@ -47,6 +47,6 @@
 
 
 [instagram]: https://www.instagram.com/_.k.a.r.t.i.k.e.y.__/
-[linkedin]: www.linkedin.com/in/kartikey-jangir-650b771a2
+[linkedin]: https://www.linkedin.com/in/kartikey-jangir-3886841b7/
 [webdevplaylist]: https://github.com/kartikyejangir?tab=repositories
 [cssplaylist]: https://github.com/kartikeyjangir?tab=repositories
