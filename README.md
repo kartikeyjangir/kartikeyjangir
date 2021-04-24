@@ -24,12 +24,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />][webdevplaylist]
 [<img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />][webdevplaylist]
+
 
 
 <br />
