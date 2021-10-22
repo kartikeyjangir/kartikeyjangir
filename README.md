@@ -1,7 +1,6 @@
 ### Hi there, I'm kartikey jangir  👋
 ## I'm a Student,Programmer,webdeveloper!!
 
-- 🌱 I’m currently Open sources Projects .
 - 👯 I’m looking to collaborate with other backend developers
 - 🥅 2021 Goals: Contribute to open source projects
 - ⚡ co-circular: love playing and doing cardio
