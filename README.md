@@ -2,7 +2,7 @@
 ## I'm a Student,Programmer,webdeveloper!!
 
 - 👯 I’m looking to collaborate with other backend developers
-- 🥅 2021 Goals: Contribute to open source projects
+- 🥅 2022 Goals: Contribute to open source projects
 - ⚡ co-circular: love playing and doing cardio
 
 ### Connect with me:
